@@ -17,6 +17,9 @@ function __autoload($class)
 $hello = new HelloWorld();
 $hello->abc();
 
+$helle = new HelloWorld();
+$hello->abc();
+
 /**
  * 输出 HelloWorld 与报错信息
  * Fatal error: Class 'HelloWorld' not found
