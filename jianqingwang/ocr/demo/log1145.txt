@@ -1,0 +1,1234 @@
+file_list:
+array(15) {
+  [0]=>
+  string(21) "pic1114/touzilast.jpg"
+  [1]=>
+  string(26) "pic1114/quanqiuhuixuan.jpg"
+  [2]=>
+  string(20) "pic1114/qwmsnewn.jpg"
+  [3]=>
+  string(22) "pic1114/zhibaoliao.jpg"
+  [4]=>
+  string(17) "pic1114/super.jpg"
+  [5]=>
+  string(21) "pic1114/0yuanchou.jpg"
+  [6]=>
+  string(29) "pic1114/quanqiuhuixuanxin.jpg"
+  [7]=>
+  string(19) "pic1114/qwmskfc.jpg"
+  [8]=>
+  string(22) "pic1114/kakadaixin.jpg"
+  [9]=>
+  string(16) "pic1114/qwms.jpg"
+  [10]=>
+  string(17) "pic1114/touzi.jpg"
+  [11]=>
+  string(25) "pic1114/zhibaoliaonew.jpg"
+  [12]=>
+  string(20) "pic1114/fanlicar.jpg"
+  [13]=>
+  string(20) "pic1114/qwmslast.jpg"
+  [14]=>
+  string(16) "pic1114/kaka.jpg"
+}
+file name:pic1114/touzilast.jpg
+array(4) {
+  ["log_id"]=>
+  int(4278089234945968609)
+  ["words_result_num"]=>
+  int(6)
+  ["classify_result"]=>
+  array(1) {
+    ["lottery"]=>
+    string(7) "unknown"
+  }
+  ["words_result"]=>
+  array(6) {
+    [0]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(79)
+        ["top"]=>
+        int(131)
+        ["height"]=>
+        int(20)
+        ["left"]=>
+        int(6)
+      }
+      ["words"]=>
+      string(12) "理财返利"
+    }
+    [1]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(313)
+        ["top"]=>
+        int(163)
+        ["height"]=>
+        int(52)
+        ["left"]=>
+        int(99)
+      }
+      ["words"]=>
+      string(17) "投资PK赢奔驰"
+    }
+    [2]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(59)
+        ["top"]=>
+        int(200)
+        ["height"]=>
+        int(29)
+        ["left"]=>
+        int(610)
+      }
+      ["words"]=>
+      string(3) "528"
+    }
+    [3]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(318)
+        ["top"]=>
+        int(229)
+        ["height"]=>
+        int(31)
+        ["left"]=>
+        int(97)
+      }
+      ["words"]=>
+      string(34) "最高可获528元红包最后1天"
+    }
+    [4]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(71)
+        ["top"]=>
+        int(262)
+        ["height"]=>
+        int(16)
+        ["left"]=>
+        int(600)
+      }
+      ["words"]=>
+      string(8) "11.10-15"
+    }
+    [5]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(162)
+        ["top"]=>
+        int(290)
+        ["height"]=>
+        int(19)
+        ["left"]=>
+        int(174)
+      }
+      ["words"]=>
+      string(31) "*理财有风险投资需谨慎"
+    }
+  }
+}
+file name:pic1114/quanqiuhuixuan.jpg
+array(4) {
+  ["log_id"]=>
+  int(6443601612879616503)
+  ["words_result_num"]=>
+  int(4)
+  ["classify_result"]=>
+  array(1) {
+    ["lottery"]=>
+    string(7) "unknown"
+  }
+  ["words_result"]=>
+  array(4) {
+    [0]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(83)
+        ["top"]=>
+        int(129)
+        ["height"]=>
+        int(22)
+        ["left"]=>
+        int(5)
+      }
+      ["words"]=>
+      string(12) "全球惠造"
+    }
+    [1]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(155)
+        ["top"]=>
+        int(163)
+        ["height"]=>
+        int(26)
+        ["left"]=>
+        int(159)
+      }
+      ["words"]=>
+      string(15) "◎ TIGER虎牌"
+    }
+    [2]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(274)
+        ["top"]=>
+        int(201)
+        ["height"]=>
+        int(44)
+        ["left"]=>
+        int(99)
+      }
+      ["words"]=>
+      string(19) "虎牌保温杯4折"
+    }
+    [3]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(211)
+        ["top"]=>
+        int(258)
+        ["height"]=>
+        int(23)
+        ["left"]=>
+        int(130)
+      }
+      ["words"]=>
+      string(30) "暖冬惊喜价不用等黑五"
+    }
+  }
+}
+file name:pic1114/qwmsnewn.jpg
+array(4) {
+  ["log_id"]=>
+  int(4811555026488565684)
+  ["words_result_num"]=>
+  int(3)
+  ["classify_result"]=>
+  array(1) {
+    ["lottery"]=>
+    string(7) "unknown"
+  }
+  ["words_result"]=>
+  array(3) {
+    [0]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(79)
+        ["top"]=>
+        int(126)
+        ["height"]=>
+        int(26)
+        ["left"]=>
+        int(5)
+      }
+      ["words"]=>
+      string(12) "全网面杀"
+    }
+    [1]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(395)
+        ["top"]=>
+        int(185)
+        ["height"]=>
+        int(47)
+        ["left"]=>
+        int(36)
+      }
+      ["words"]=>
+      string(21) "4000+个品牌1折起"
+    }
+    [2]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(177)
+        ["top"]=>
+        int(243)
+        ["height"]=>
+        int(26)
+        ["left"]=>
+        int(142)
+      }
+      ["words"]=>
+      string(24) "我们比价你们省心"
+    }
+  }
+}
+file name:pic1114/zhibaoliao.jpg
+array(4) {
+  ["log_id"]=>
+  int(3758856613428781528)
+  ["words_result_num"]=>
+  int(4)
+  ["classify_result"]=>
+  array(1) {
+    ["lottery"]=>
+    string(7) "unknown"
+  }
+  ["words_result"]=>
+  array(4) {
+    [0]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(81)
+        ["top"]=>
+        int(129)
+        ["height"]=>
+        int(23)
+        ["left"]=>
+        int(6)
+      }
+      ["words"]=>
+      string(11) "值·爆料"
+    }
+    [1]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(180)
+        ["top"]=>
+        int(162)
+        ["height"]=>
+        int(30)
+        ["left"]=>
+        int(150)
+      }
+      ["words"]=>
+      string(19) "天猫|大牌返场"
+    }
+    [2]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(303)
+        ["top"]=>
+        int(200)
+        ["height"]=>
+        int(45)
+        ["left"]=>
+        int(85)
+      }
+      ["words"]=>
+      string(20) "优衣库低至39元"
+    }
+    [3]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(183)
+        ["top"]=>
+        int(257)
+        ["height"]=>
+        int(25)
+        ["left"]=>
+        int(144)
+      }
+      ["words"]=>
+      string(24) "双11返场价最后1天"
+    }
+  }
+}
+file name:pic1114/super.jpg
+array(4) {
+  ["log_id"]=>
+  int(7133199725806547163)
+  ["words_result_num"]=>
+  int(3)
+  ["classify_result"]=>
+  array(1) {
+    ["lottery"]=>
+    string(7) "unknown"
+  }
+  ["words_result"]=>
+  array(3) {
+    [0]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(64)
+        ["top"]=>
+        int(128)
+        ["height"]=>
+        int(23)
+        ["left"]=>
+        int(14)
+      }
+      ["words"]=>
+      string(9) "超级返"
+    }
+    [1]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(447)
+        ["top"]=>
+        int(142)
+        ["height"]=>
+        int(104)
+        ["left"]=>
+        int(64)
+      }
+      ["words"]=>
+      string(17) "单瓶低至52元"
+    }
+    [2]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(308)
+        ["top"]=>
+        int(246)
+        ["height"]=>
+        int(47)
+        ["left"]=>
+        int(80)
+      }
+      ["words"]=>
+      string(25) "调味料4瓶组合￥208"
+    }
+  }
+}
+file name:pic1114/0yuanchou.jpg
+array(4) {
+  ["log_id"]=>
+  int(2889058432837018727)
+  ["words_result_num"]=>
+  int(3)
+  ["classify_result"]=>
+  array(1) {
+    ["lottery"]=>
+    string(7) "unknown"
+  }
+  ["words_result"]=>
+  array(3) {
+    [0]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(71)
+        ["top"]=>
+        int(128)
+        ["height"]=>
+        int(22)
+        ["left"]=>
+        int(11)
+      }
+      ["words"]=>
+      string(7) "0元招"
+    }
+    [1]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(456)
+        ["top"]=>
+        int(179)
+        ["height"]=>
+        int(56)
+        ["left"]=>
+        int(41)
+      }
+      ["words"]=>
+      string(20) "0元抽苹果4件套"
+    }
+    [2]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(170)
+        ["top"]=>
+        int(249)
+        ["height"]=>
+        int(25)
+        ["left"]=>
+        int(132)
+      }
+      ["words"]=>
+      string(17) "市场价37352元"
+    }
+  }
+}
+file name:pic1114/quanqiuhuixuanxin.jpg
+array(4) {
+  ["log_id"]=>
+  int(8708899625117902182)
+  ["words_result_num"]=>
+  int(4)
+  ["classify_result"]=>
+  array(1) {
+    ["lottery"]=>
+    string(7) "unknown"
+  }
+  ["words_result"]=>
+  array(4) {
+    [0]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(83)
+        ["top"]=>
+        int(129)
+        ["left"]=>
+        int(5)
+        ["height"]=>
+        int(22)
+      }
+      ["words"]=>
+      string(12) "全球惠造"
+    }
+    [1]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(155)
+        ["top"]=>
+        int(163)
+        ["left"]=>
+        int(159)
+        ["height"]=>
+        int(26)
+      }
+      ["words"]=>
+      string(15) "◎ TIGER虎牌"
+    }
+    [2]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(274)
+        ["top"]=>
+        int(201)
+        ["left"]=>
+        int(99)
+        ["height"]=>
+        int(44)
+      }
+      ["words"]=>
+      string(19) "虎牌保温杯4折"
+    }
+    [3]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(211)
+        ["top"]=>
+        int(258)
+        ["left"]=>
+        int(130)
+        ["height"]=>
+        int(23)
+      }
+      ["words"]=>
+      string(30) "暖冬惊喜价不用等黑五"
+    }
+  }
+}
+file name:pic1114/qwmskfc.jpg
+array(4) {
+  ["log_id"]=>
+  int(406820466703907214)
+  ["words_result_num"]=>
+  int(2)
+  ["classify_result"]=>
+  array(1) {
+    ["lottery"]=>
+    string(7) "unknown"
+  }
+  ["words_result"]=>
+  array(2) {
+    [0]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(127)
+        ["top"]=>
+        int(23)
+        ["height"]=>
+        int(34)
+        ["left"]=>
+        int(16)
+      }
+      ["words"]=>
+      string(12) "全网秒杀"
+    }
+    [1]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(125)
+        ["top"]=>
+        int(70)
+        ["height"]=>
+        int(28)
+        ["left"]=>
+        int(16)
+      }
+      ["words"]=>
+      string(12) "KFC尽情吃"
+    }
+  }
+}
+file name:pic1114/kakadaixin.jpg
+array(4) {
+  ["log_id"]=>
+  int(945713305375981030)
+  ["words_result_num"]=>
+  int(5)
+  ["classify_result"]=>
+  array(1) {
+    ["lottery"]=>
+    string(7) "unknown"
+  }
+  ["words_result"]=>
+  array(5) {
+    [0]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(74)
+        ["top"]=>
+        int(140)
+        ["height"]=>
+        int(27)
+        ["left"]=>
+        int(261)
+      }
+      ["words"]=>
+      string(9) "卡卡质"
+    }
+    [1]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(335)
+        ["top"]=>
+        int(179)
+        ["height"]=>
+        int(43)
+        ["left"]=>
+        int(106)
+      }
+      ["words"]=>
+      string(20) "最高可借50000元"
+    }
+    [2]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(111)
+        ["top"]=>
+        int(237)
+        ["height"]=>
+        int(26)
+        ["left"]=>
+        int(219)
+      }
+      ["words"]=>
+      string(15) "额度任性刷"
+    }
+    [3]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(124)
+        ["top"]=>
+        int(291)
+        ["height"]=>
+        int(18)
+        ["left"]=>
+        int(211)
+      }
+      ["words"]=>
+      string(24) "广告与返利网无关"
+    }
+    [4]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(94)
+        ["top"]=>
+        int(287)
+        ["height"]=>
+        int(21)
+        ["left"]=>
+        int(636)
+      }
+      ["words"]=>
+      string(16) "广告,无返利"
+    }
+  }
+}
+file name:pic1114/qwms.jpg
+array(4) {
+  ["log_id"]=>
+  int(4814706120065158466)
+  ["words_result_num"]=>
+  int(4)
+  ["classify_result"]=>
+  array(1) {
+    ["lottery"]=>
+    string(7) "unknown"
+  }
+  ["words_result"]=>
+  array(4) {
+    [0]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(81)
+        ["top"]=>
+        int(125)
+        ["height"]=>
+        int(29)
+        ["left"]=>
+        int(5)
+      }
+      ["words"]=>
+      string(9) "全网杀"
+    }
+    [1]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(96)
+        ["top"]=>
+        int(157)
+        ["height"]=>
+        int(22)
+        ["left"]=>
+        int(209)
+      }
+      ["words"]=>
+      string(1) "A"
+    }
+    [2]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(358)
+        ["top"]=>
+        int(194)
+        ["height"]=>
+        int(49)
+        ["left"]=>
+        int(57)
+      }
+      ["words"]=>
+      string(24) "大牌秋冬断码清仓"
+    }
+    [3]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(252)
+        ["top"]=>
+        int(253)
+        ["height"]=>
+        int(26)
+        ["left"]=>
+        int(111)
+      }
+      ["words"]=>
+      string(29) "抢75元 new balance运动鞋"
+    }
+  }
+}
+file name:pic1114/touzi.jpg
+array(4) {
+  ["log_id"]=>
+  int(7838770231816913965)
+  ["words_result_num"]=>
+  int(6)
+  ["classify_result"]=>
+  array(1) {
+    ["lottery"]=>
+    string(7) "unknown"
+  }
+  ["words_result"]=>
+  array(6) {
+    [0]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(79)
+        ["top"]=>
+        int(131)
+        ["height"]=>
+        int(20)
+        ["left"]=>
+        int(6)
+      }
+      ["words"]=>
+      string(12) "理财返利"
+    }
+    [1]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(313)
+        ["top"]=>
+        int(164)
+        ["height"]=>
+        int(52)
+        ["left"]=>
+        int(113)
+      }
+      ["words"]=>
+      string(17) "投资PK赢奔驰"
+    }
+    [2]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(59)
+        ["top"]=>
+        int(200)
+        ["height"]=>
+        int(29)
+        ["left"]=>
+        int(610)
+      }
+      ["words"]=>
+      string(3) "528"
+    }
+    [3]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(244)
+        ["top"]=>
+        int(229)
+        ["height"]=>
+        int(31)
+        ["left"]=>
+        int(148)
+      }
+      ["words"]=>
+      string(24) "最高可获528元红包"
+    }
+    [4]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(71)
+        ["top"]=>
+        int(262)
+        ["height"]=>
+        int(16)
+        ["left"]=>
+        int(600)
+      }
+      ["words"]=>
+      string(8) "11.10-15"
+    }
+    [5]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(163)
+        ["top"]=>
+        int(288)
+        ["height"]=>
+        int(23)
+        ["left"]=>
+        int(188)
+      }
+      ["words"]=>
+      string(31) "*理财有风险投资需谨慎"
+    }
+  }
+}
+file name:pic1114/zhibaoliaonew.jpg
+array(4) {
+  ["log_id"]=>
+  int(6982471116484486151)
+  ["words_result_num"]=>
+  int(4)
+  ["classify_result"]=>
+  array(1) {
+    ["lottery"]=>
+    string(7) "unknown"
+  }
+  ["words_result"]=>
+  array(4) {
+    [0]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(81)
+        ["top"]=>
+        int(129)
+        ["left"]=>
+        int(6)
+        ["height"]=>
+        int(23)
+      }
+      ["words"]=>
+      string(11) "值·爆料"
+    }
+    [1]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(180)
+        ["top"]=>
+        int(162)
+        ["left"]=>
+        int(150)
+        ["height"]=>
+        int(30)
+      }
+      ["words"]=>
+      string(19) "天猫|大牌返场"
+    }
+    [2]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(303)
+        ["top"]=>
+        int(200)
+        ["left"]=>
+        int(85)
+        ["height"]=>
+        int(45)
+      }
+      ["words"]=>
+      string(20) "优衣库低至39元"
+    }
+    [3]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(183)
+        ["top"]=>
+        int(257)
+        ["left"]=>
+        int(144)
+        ["height"]=>
+        int(25)
+      }
+      ["words"]=>
+      string(24) "双11返场价最后1天"
+    }
+  }
+}
+file name:pic1114/fanlicar.jpg
+array(4) {
+  ["log_id"]=>
+  int(2781812965075506269)
+  ["words_result_num"]=>
+  int(3)
+  ["classify_result"]=>
+  array(1) {
+    ["lottery"]=>
+    string(7) "unknown"
+  }
+  ["words_result"]=>
+  array(3) {
+    [0]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(61)
+        ["top"]=>
+        int(128)
+        ["height"]=>
+        int(26)
+        ["left"]=>
+        int(6)
+      }
+      ["words"]=>
+      string(9) "返利卡"
+    }
+    [1]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(312)
+        ["top"]=>
+        int(188)
+        ["height"]=>
+        int(47)
+        ["left"]=>
+        int(72)
+      }
+      ["words"]=>
+      string(19) "年最高返2400元"
+    }
+    [2]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(234)
+        ["top"]=>
+        int(240)
+        ["height"]=>
+        int(39)
+        ["left"]=>
+        int(75)
+      }
+      ["words"]=>
+      string(25) "返利网&中信联名卡"
+    }
+  }
+}
+file name:pic1114/qwmslast.jpg
+array(4) {
+  ["log_id"]=>
+  int(6169027548989405675)
+  ["words_result_num"]=>
+  int(3)
+  ["classify_result"]=>
+  array(1) {
+    ["lottery"]=>
+    string(7) "unknown"
+  }
+  ["words_result"]=>
+  array(3) {
+    [0]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(79)
+        ["top"]=>
+        int(126)
+        ["left"]=>
+        int(5)
+        ["height"]=>
+        int(26)
+      }
+      ["words"]=>
+      string(12) "全网面杀"
+    }
+    [1]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(395)
+        ["top"]=>
+        int(185)
+        ["left"]=>
+        int(36)
+        ["height"]=>
+        int(47)
+      }
+      ["words"]=>
+      string(21) "4000+个品牌1折起"
+    }
+    [2]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(177)
+        ["top"]=>
+        int(243)
+        ["left"]=>
+        int(142)
+        ["height"]=>
+        int(26)
+      }
+      ["words"]=>
+      string(24) "我们比价你们省心"
+    }
+  }
+}
+file name:pic1114/kaka.jpg
+array(4) {
+  ["log_id"]=>
+  int(8281021420408978730)
+  ["words_result_num"]=>
+  int(7)
+  ["classify_result"]=>
+  array(1) {
+    ["lottery"]=>
+    string(7) "unknown"
+  }
+  ["words_result"]=>
+  array(7) {
+    [0]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(141)
+        ["top"]=>
+        int(134)
+        ["height"]=>
+        int(40)
+        ["left"]=>
+        int(195)
+      }
+      ["words"]=>
+      string(9) "卡卡质"
+    }
+    [1]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(52)
+        ["top"]=>
+        int(155)
+        ["height"]=>
+        int(28)
+        ["left"]=>
+        int(518)
+      }
+      ["words"]=>
+      string(4) "0006"
+    }
+    [2]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(302)
+        ["top"]=>
+        int(180)
+        ["height"]=>
+        int(44)
+        ["left"]=>
+        int(112)
+      }
+      ["words"]=>
+      string(20) "1千到5万随心贷"
+    }
+    [3]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(71)
+        ["top"]=>
+        int(170)
+        ["height"]=>
+        int(40)
+        ["left"]=>
+        int(506)
+      }
+      ["words"]=>
+      string(12) "申请成功"
+    }
+    [4]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(179)
+        ["top"]=>
+        int(239)
+        ["height"]=>
+        int(22)
+        ["left"]=>
+        int(175)
+      }
+      ["words"]=>
+      string(24) "当天到账立即申请"
+    }
+    [5]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(124)
+        ["top"]=>
+        int(291)
+        ["height"]=>
+        int(17)
+        ["left"]=>
+        int(202)
+      }
+      ["words"]=>
+      string(24) "广告与返利网无关"
+    }
+    [6]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(94)
+        ["top"]=>
+        int(288)
+        ["height"]=>
+        int(20)
+        ["left"]=>
+        int(636)
+      }
+      ["words"]=>
+      string(16) "广告,无返利"
+    }
+  }
+}

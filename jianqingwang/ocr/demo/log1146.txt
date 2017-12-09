@@ -1,0 +1,556 @@
+file_list:
+array(9) {
+  [0]=>
+  string(28) "pic1115/multi-languages.jpeg"
+  [1]=>
+  string(22) "pic1115/youhaoquan.png"
+  [2]=>
+  string(17) "pic1115/text.jpeg"
+  [3]=>
+  string(17) "pic1115/licai.png"
+  [4]=>
+  string(23) "pic1115/super_other.png"
+  [5]=>
+  string(25) "pic1115/yiyuanshiyong.jpg"
+  [6]=>
+  string(18) "pic1115/pinbei.jpg"
+  [7]=>
+  string(19) "pic1115/yaoqing.jpg"
+  [8]=>
+  string(20) "pic1115/liliquan.jpg"
+}
+file name:pic1115/multi-languages.jpeg
+array(4) {
+  ["log_id"]=>
+  int(8194047510118296581)
+  ["words_result_num"]=>
+  int(1)
+  ["classify_result"]=>
+  array(1) {
+    ["lottery"]=>
+    string(7) "unknown"
+  }
+  ["words_result"]=>
+  array(1) {
+    [0]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(254)
+        ["top"]=>
+        int(39)
+        ["height"]=>
+        int(37)
+        ["left"]=>
+        int(1)
+      }
+      ["words"]=>
+      string(18) "Ieat寿司 de maca"
+    }
+  }
+}
+file name:pic1115/youhaoquan.png
+array(4) {
+  ["log_id"]=>
+  int(2188307620404393085)
+  ["words_result_num"]=>
+  int(1)
+  ["classify_result"]=>
+  array(1) {
+    ["lottery"]=>
+    string(7) "unknown"
+  }
+  ["words_result"]=>
+  array(1) {
+    [0]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(180)
+        ["top"]=>
+        int(54)
+        ["height"]=>
+        int(55)
+        ["left"]=>
+        int(471)
+      }
+      ["words"]=>
+      string(11) "有·好券"
+    }
+  }
+}
+file name:pic1115/text.jpeg
+array(4) {
+  ["log_id"]=>
+  int(6842966615086505981)
+  ["words_result_num"]=>
+  int(3)
+  ["classify_result"]=>
+  array(1) {
+    ["lottery"]=>
+    string(7) "unknown"
+  }
+  ["words_result"]=>
+  array(3) {
+    [0]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(255)
+        ["top"]=>
+        int(2)
+        ["height"]=>
+        int(53)
+        ["left"]=>
+        int(0)
+      }
+      ["words"]=>
+      string(20) " The quick brown fox"
+    }
+    [1]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(240)
+        ["top"]=>
+        int(39)
+        ["height"]=>
+        int(51)
+        ["left"]=>
+        int(9)
+      }
+      ["words"]=>
+      string(20) " Jumps over the lazy"
+    }
+    [2]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(58)
+        ["top"]=>
+        int(81)
+        ["height"]=>
+        int(31)
+        ["left"]=>
+        int(106)
+      }
+      ["words"]=>
+      string(4) " dog"
+    }
+  }
+}
+file name:pic1115/licai.png
+array(4) {
+  ["log_id"]=>
+  int(1643239530923443194)
+  ["words_result_num"]=>
+  int(6)
+  ["classify_result"]=>
+  array(1) {
+    ["lottery"]=>
+    string(7) "unknown"
+  }
+  ["words_result"]=>
+  array(6) {
+    [0]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(115)
+        ["top"]=>
+        int(114)
+        ["height"]=>
+        int(32)
+        ["left"]=>
+        int(233)
+      }
+      ["words"]=>
+      string(12) "理财返利"
+    }
+    [1]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(366)
+        ["top"]=>
+        int(195)
+        ["height"]=>
+        int(104)
+        ["left"]=>
+        int(153)
+      }
+      ["words"]=>
+      string(9) "起理则"
+    }
+    [2]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(308)
+        ["top"]=>
+        int(308)
+        ["height"]=>
+        int(45)
+        ["left"]=>
+        int(142)
+      }
+      ["words"]=>
+      string(17) "投资PK赢奔驰"
+    }
+    [3]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(68)
+        ["top"]=>
+        int(427)
+        ["height"]=>
+        int(32)
+        ["left"]=>
+        int(351)
+      }
+      ["words"]=>
+      string(3) "528"
+    }
+    [4]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(81)
+        ["top"]=>
+        int(497)
+        ["height"]=>
+        int(19)
+        ["left"]=>
+        int(339)
+      }
+      ["words"]=>
+      string(8) "11.10-15"
+    }
+    [5]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(212)
+        ["top"]=>
+        int(522)
+        ["height"]=>
+        int(46)
+        ["left"]=>
+        int(190)
+      }
+      ["words"]=>
+      string(28) "理财有风险,投资需谨"
+    }
+  }
+}
+file name:pic1115/super_other.png
+array(4) {
+  ["log_id"]=>
+  int(4477556616931390125)
+  ["words_result_num"]=>
+  int(3)
+  ["classify_result"]=>
+  array(1) {
+    ["lottery"]=>
+    string(7) "unknown"
+  }
+  ["words_result"]=>
+  array(3) {
+    [0]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(66)
+        ["top"]=>
+        int(127)
+        ["height"]=>
+        int(27)
+        ["left"]=>
+        int(13)
+      }
+      ["words"]=>
+      string(9) "超级返"
+    }
+    [1]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(455)
+        ["top"]=>
+        int(138)
+        ["height"]=>
+        int(137)
+        ["left"]=>
+        int(60)
+      }
+      ["words"]=>
+      string(17) "单瓶低至52元"
+    }
+    [2]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(363)
+        ["top"]=>
+        int(239)
+        ["height"]=>
+        int(57)
+        ["left"]=>
+        int(75)
+      }
+      ["words"]=>
+      string(26) "(调味料4瓶组合￥208"
+    }
+  }
+}
+file name:pic1115/yiyuanshiyong.jpg
+array(4) {
+  ["log_id"]=>
+  int(7396760079731198797)
+  ["words_result_num"]=>
+  int(3)
+  ["classify_result"]=>
+  array(1) {
+    ["lottery"]=>
+    string(7) "unknown"
+  }
+  ["words_result"]=>
+  array(3) {
+    [0]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(81)
+        ["top"]=>
+        int(15)
+        ["height"]=>
+        int(22)
+        ["left"]=>
+        int(27)
+      }
+      ["words"]=>
+      string(10) "1元证用"
+    }
+    [1]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(213)
+        ["top"]=>
+        int(50)
+        ["height"]=>
+        int(39)
+        ["left"]=>
+        int(111)
+      }
+      ["words"]=>
+      string(18) "好物评估报告"
+    }
+    [2]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(248)
+        ["top"]=>
+        int(92)
+        ["height"]=>
+        int(28)
+        ["left"]=>
+        int(112)
+      }
+      ["words"]=>
+      string(21) "1元试用 ipad mini4"
+    }
+  }
+}
+file name:pic1115/pinbei.jpg
+array(4) {
+  ["log_id"]=>
+  int(8472806617622012155)
+  ["words_result_num"]=>
+  int(2)
+  ["classify_result"]=>
+  array(1) {
+    ["lottery"]=>
+    string(7) "unknown"
+  }
+  ["words_result"]=>
+  array(2) {
+    [0]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(306)
+        ["top"]=>
+        int(181)
+        ["height"]=>
+        int(51)
+        ["left"]=>
+        int(88)
+      }
+      ["words"]=>
+      string(21) "不用剁手抢豪礼"
+    }
+    [1]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(173)
+        ["top"]=>
+        int(240)
+        ["height"]=>
+        int(29)
+        ["left"]=>
+        int(155)
+      }
+      ["words"]=>
+      string(19) "0元奢品邀你拼"
+    }
+  }
+}
+file name:pic1115/yaoqing.jpg
+array(4) {
+  ["log_id"]=>
+  int(7151229970024010673)
+  ["words_result_num"]=>
+  int(3)
+  ["classify_result"]=>
+  array(1) {
+    ["lottery"]=>
+    string(7) "unknown"
+  }
+  ["words_result"]=>
+  array(3) {
+    [0]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(58)
+        ["top"]=>
+        int(125)
+        ["height"]=>
+        int(28)
+        ["left"]=>
+        int(18)
+      }
+      ["words"]=>
+      string(7) "1元购"
+    }
+    [1]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(309)
+        ["top"]=>
+        int(181)
+        ["height"]=>
+        int(54)
+        ["left"]=>
+        int(77)
+      }
+      ["words"]=>
+      string(19) "邀请好友1元购"
+    }
+    [2]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(238)
+        ["top"]=>
+        int(247)
+        ["height"]=>
+        int(31)
+        ["left"]=>
+        int(107)
+      }
+      ["words"]=>
+      string(23) "我拿20元现金奖励"
+    }
+  }
+}
+file name:pic1115/liliquan.jpg
+array(4) {
+  ["log_id"]=>
+  int(4018107809665843198)
+  ["words_result_num"]=>
+  int(3)
+  ["classify_result"]=>
+  array(1) {
+    ["lottery"]=>
+    string(7) "unknown"
+  }
+  ["words_result"]=>
+  array(3) {
+    [0]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(69)
+        ["top"]=>
+        int(14)
+        ["height"]=>
+        int(26)
+        ["left"]=>
+        int(28)
+      }
+      ["words"]=>
+      string(9) "粒粒圈"
+    }
+    [1]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(195)
+        ["top"]=>
+        int(47)
+        ["height"]=>
+        int(43)
+        ["left"]=>
+        int(110)
+      }
+      ["words"]=>
+      string(15) "你晒我买单"
+    }
+    [2]=>
+    array(2) {
+      ["location"]=>
+      array(4) {
+        ["width"]=>
+        int(258)
+        ["top"]=>
+        int(95)
+        ["height"]=>
+        int(32)
+        ["left"]=>
+        int(114)
+      }
+      ["words"]=>
+      string(22) "最高顾1000元大奖"
+    }
+  }
+}
